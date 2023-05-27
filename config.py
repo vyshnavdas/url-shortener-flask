@@ -1,1 +1,1 @@
-DB_URL = 'mongodb+srv://vasubai:vasubai@cluster0.9mudczf.mongodb.net/?retryWrites=true&w=majority'
+DB_URL = "" #MongoDB Url for The Database
