@@ -8,8 +8,7 @@ A Url Shortener Api Made With Flask And MongoDB
 
 ## Usage
 
-<details>
-  <b>Using Python</b>
+<b>Using Python</b>
   ```python
     import requests
     
@@ -24,6 +23,6 @@ A Url Shortener Api Made With Flask And MongoDB
         shortened_url = response.json()['shortened_url']
         print('Shortened URL:', shortened_url)
     else:
-        print('Error creating shortened URL:', response.json())```
-</details>
+        print('Error creating shortened URL:', response.json())
+        ```
 
