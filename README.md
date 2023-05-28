@@ -8,4 +8,6 @@ A Url Shortener Api Made With Flask And MongoDB
 
 ## Usage
 
-**Usage on Browser**
+.. code-block:: python
+
+
