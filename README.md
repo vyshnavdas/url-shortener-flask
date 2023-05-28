@@ -10,8 +10,8 @@ A Url Shortener Api Made With Flask And MongoDB
 
 **Using Python**
 
-.. code-block:: python
-import requests
+```python
+   import requests
 
 base_url = 'https://url-shortener-flask-1-production.up.railway.app/'  # Update with your API base URL
 
@@ -25,4 +25,5 @@ if response.status_code == 201:
     print('Shortened URL:', shortened_url)
 else:
     print('Error creating shortened URL:', response.json())
+```
 
