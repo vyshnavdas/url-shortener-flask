@@ -11,7 +11,7 @@ A Url Shortener Api Made With Flask And MongoDB
 <details>
   <summary><b>Using Python</b></summary>
   <pre>
-  <code class="lanuage-python">
+  <code class="language-python">
     import requests
     base_url = 'https://url-shortener-flask-1-production.up.railway.app/'  # Update with your API base URL
     
