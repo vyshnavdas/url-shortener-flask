@@ -26,3 +26,7 @@ else:
     print('Error creating shortened URL:', response.json())
 ```
 
+<b>`Using Browser`</b>
+```
+http://your-base-url/shorten?long_url=https://the-long-url
+```
