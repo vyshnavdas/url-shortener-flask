@@ -26,6 +26,6 @@ A Url Shortener Api Made With Flask And MongoDB
         print('Shortened URL:', shortened_url)
     else:
         print('Error creating shortened URL:', response.json())</code>
-  </pre
+  </pre>
 </details>
 
