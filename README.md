@@ -8,14 +8,14 @@ A Url Shortener Api Made With Flask And MongoDB
 
 ## Usage
 
-<b>Using Python</b>
+<b>`Using Python`</b>
 ```python
 import requests
 
-base_url = 'https://url-shortener-flask-1-production.up.railway.app/'  # Update with your API base URL
+base_url = ''  # Update with your API base URL
   
 # Create a shortened URL
-long_url = 'https://www.twitter.com'
+long_url = '' #Provide The Long url here
 data = {'long_url': long_url}
 response = requests.get(base_url + 'shorten', json=data)
   
