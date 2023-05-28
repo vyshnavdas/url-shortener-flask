@@ -9,7 +9,7 @@ A Url Shortener Api Made With Flask And MongoDB
 ## Usage
 
 <details>
-  <summary><b>Using Python</b></summary>
+  <b>Using Python</b>
   ```python
     import requests
     
